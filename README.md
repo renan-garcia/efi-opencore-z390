@@ -1,4 +1,4 @@
-# EFI Opencore 0.7.7
+# EFI Opencore 0.7.5
 
 - i9-9900KS
 - Z390 AORUS Elite
